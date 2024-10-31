@@ -7,10 +7,10 @@
 ## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px"></picture> About me
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="250px"></picture>
-
-- :school: Soy estudiante de la  `Técnicatura en programación`
-- :trophy: He trabajado en proyectos con `Spring Boot` y `desarrollo backend`.
-- :technologist: Me apasiona utilizar el software como solución para cualquier `problema`.
+<br>
+- :school: Soy estudiante de la  `Técnicatura en programación`<br>
+- :trophy: He trabajado en proyectos con `Spring Boot` y `desarrollo backend`.<br>
+- :technologist: Me apasiona utilizar el software como solución para cualquier `problema`.<br>
 
 
 <br>
