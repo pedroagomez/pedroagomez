@@ -12,7 +12,7 @@
 - :school: Soy estudiante de la  `Técnicatura en programación`
 - :trophy: He trabajado en proyectos con `Spring Boot` y `desarrollo backend`.
 - :technologist: Me apasiona utilizar el software como solución para cualquier `problema`.
-- :computer: Tengo experiencia en desarrollo de aplicaciones backend y SQL, y me interesa el análisis de datos.
+
 
 <br>
 
