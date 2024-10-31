@@ -8,7 +8,6 @@
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="250px"></picture>
 
-<br>
 - :school: Soy estudiante de la  `Técnicatura en programación`
 - :trophy: He trabajado en proyectos con `Spring Boot` y `desarrollo backend`.
 - :technologist: Me apasiona utilizar el software como solución para cualquier `problema`.
